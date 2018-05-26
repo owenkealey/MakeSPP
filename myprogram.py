@@ -1,2 +1,4 @@
-my_input = raw_input("What's your name?")
-print my_input
+def myfunction(x):
+    return x+2
+
+print myfunction(2)
